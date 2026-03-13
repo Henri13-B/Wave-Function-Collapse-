@@ -415,7 +415,7 @@ cp /mingw64/bin/SDL3.dll build/
 
 ## 👥 Contributeurs
 
-- **Votre Nom** - Développeur principal
+- **Henri Belinga** - Développeur principal
 
 ---
 
@@ -426,7 +426,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ```
 MIT License
 
-Copyright (c) 2025 Votre Nom
+Copyright (c) 2025 Henri Belinga
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
